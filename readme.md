@@ -5,6 +5,7 @@ codes for Calculator Project
 - [Usage](#usage)
 - [소스코드](#소스코드)
 -  [Uninstallation](#uninstallation)  
+
 설치방법과 사용방법 및 프로그램 소개를 달아서 프로그램의 개요와 사용법을 간략하게 알도록 썼습니다. 또한 주요한 소스코드들을 적어 어떤 코드를 썼는지 알 수 있게 써 놓았고 마지막으로 제거 방법을 써서 프로그램 종료와 삭제 방법을 기제하였습니다.   
   
 # Installation
@@ -12,11 +13,6 @@ codes for Calculator Project
 Install telegram-send system-wide with pip:
 ``` shell
 sudo pip3 install telegram-send
-```
-
-Or if you want to install it for a single user without root permissions:
-``` shell
-pip3 install telegram-send
 ```
 
 If installed for a single user you need to add `~/.local/bin` to their path,
